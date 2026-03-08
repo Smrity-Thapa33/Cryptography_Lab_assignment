@@ -77,7 +77,6 @@ void railFenceDecrypt(char cipher[], int key) {
 }
 
 int main() {
-
     char text[200];
     int key,choice,j;
 
